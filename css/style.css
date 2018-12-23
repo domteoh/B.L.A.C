@@ -33,7 +33,6 @@ overflow-x: hidden;
   grid-area: center;
   background-color: black;
   text-align: center;
-  padding-top: 40%;
   padding-top: 34vh;
   overflow: visible;
   z-index: 1;
@@ -48,13 +47,13 @@ overflow-x: hidden;
 }
 
 h2 {
-  font-family: Times;
+  font-family: Times, serif;
   color: #b29772;
   letter-spacing: 8px;
 }
 
 h3 {
-  font-family: Times;
+  font-family: Times, serif;
   color: #b29772;
   font-size: 70px;
   font-weight: 100;
