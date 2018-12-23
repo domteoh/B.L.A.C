@@ -2,7 +2,7 @@ $(document).ready(() => {
 
 $('.button').on('click', () => {
     setTimeout(function(){
-            window.open("./between.html", "_self")}, 10)
+            window.open("./between.html", "_self")}, 20)
 });
 
 google.load('visualization', '1', {
